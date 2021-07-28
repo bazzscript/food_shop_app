@@ -1,0 +1,15 @@
+# food_shop_app
+
+A new Flutter project.
+
+## Getting Started
+
+A RESTUARANT APP
+
+APP DEVELOPMENT LAPTOP FULL SCREENSHOT
+![]()
+
+PHONE DEMO SCREENSHOTS
+![]()
+
+DOWNLOAD APK DEMO
